@@ -1,2 +1,2 @@
 # advanced-css-trillo
-This repo contains the finished project files for the Natours project as explained in the course.
+This repo contains the finished project files for the Trillo project as explained in the course.
